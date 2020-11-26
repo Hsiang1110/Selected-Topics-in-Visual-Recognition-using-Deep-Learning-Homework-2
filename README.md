@@ -13,3 +13,5 @@ https://github.com/ultralytics/yolov5
 * Python 3.8.5
 * Pytorch 1.7.0
 * CUDA 11.0
+
+folder exp4 is the training result
