@@ -1,7 +1,7 @@
 # Selected-Topics-in-Visual-Recognition-using-Deep-Learning-Homework-2
 
 ## Reference
-https://www.google.com/search?q=yolov5+ultralytics&oq=&sourceid=chrome&ie=UTF-8
+https://github.com/ultralytics/yolov5
 
 ## Hardware
 * Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz
